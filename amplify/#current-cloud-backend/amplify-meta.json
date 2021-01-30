@@ -1,5 +1,5 @@
 {
-  "prod": {
+  "providers": {
     "awscloudformation": {
       "AuthRoleName": "amplify-wildrydes-prod-185013-authRole",
       "UnauthRoleArn": "arn:aws:iam::193404144226:role/amplify-wildrydes-prod-185013-unauthRole",
@@ -10,11 +10,6 @@
       "StackName": "amplify-wildrydes-prod-185013",
       "StackId": "arn:aws:cloudformation:eu-west-1:193404144226:stack/amplify-wildrydes-prod-185013/fd911760-632b-11eb-896c-0656164f0cc9",
       "AmplifyAppId": "d2v1ze8edi3ino"
-    },
-    "categories": {
-      "auth": {
-        "wildrydes1711981b": {}
-      }
     }
   }
 }
